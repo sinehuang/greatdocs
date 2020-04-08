@@ -1,0 +1,11 @@
+site_name: TNN Docs
+nav:
+    - Get Started: index.md
+    - 技术方案: index.md
+    - 能力展示: index.md
+    - 使用手册: index.md
+    - API文档: index.md
+    - 贡献者须知: index.md
+    - Roadmap: index.md
+    - FAQ: index.md
+theme: readthedocs
